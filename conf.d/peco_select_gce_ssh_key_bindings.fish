@@ -1,5 +1,5 @@
 # Set up an easy-to-use keybind.
-set keybind "\cgh"
+set keybind \cgh
 
 # enable keybind.
 bind $keybind peco_select_gce_ssh

@@ -11,7 +11,7 @@ fish shell plugin: GCP instance selector.
 ## Installation
 With [fisher](https://github.com/jorgebucaran/fisher)
 ```console
-fisher install kumanoryo/peco_select_gce_ssh
+fisher add kumanoryo/peco_select_gce_ssh
 ```
 
 ## Usage

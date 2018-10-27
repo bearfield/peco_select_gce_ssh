@@ -4,7 +4,6 @@ fish shell plugin: GCP instance selector.
 ## Requiments
 - [fish shell](https://fishshell.com/) >= 2.7.1
 - [Google CLOUD SDK](https://cloud.google.com/sdk/) >= 221.0.0
-    - Add [config configurations](https://cloud.google.com/sdk/gcloud/reference/config/configurations/)
 - [peco](https://github.com/peco/peco) >= 0.5.1
 - [fisher](https://github.com/jorgebucaran/fisher) >= 3.1.1
 

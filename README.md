@@ -43,7 +43,7 @@ set plugin_alias gssh <your_alias>
 ## Keybind(option)
 Default keybind: Ctrl + g -> h.  
 Update this file, if you want to change keybind.  
-`<your_fish_shell_pass>/conf.d//peco_select_gce_ssh_key_bindings.fish`
+`<your_fish_shell_pass>/conf.d/peco_select_gce_ssh_key_bindings.fish`
 ```fish
 set keybind \cgh
 ↓

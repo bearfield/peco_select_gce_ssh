@@ -10,7 +10,7 @@ fish shell plugin: GCP instance selector.
 ## Installation
 With [fisher](https://github.com/jorgebucaran/fisher)
 ```console
-fisher add kumanoryo/peco_select_gce_ssh
+fisher add bearfield/peco_select_gce_ssh
 ```
 
 ## Usage
